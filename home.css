@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+
+}
+
+nav{
+    display: flex;
+    background-color: rgb(182, 66, 12);
+
+    
+}
+
+table{
+    padding: 10px;
+    margin-inline: 50px;
+    border-spacing: 20px;
+}
+
+nav>h2{
+    margin: auto;
+    margin-left: 10px;
+}
+
+.description>h1{
+    text-align: center;
+}
+
+p{
+    margin-top: 10px;
+}
+
+footer{
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: burlywood;
+    text-align: center;
+    padding: 10px;
+    margin-top: 50px;
+}
+
+body{
+    background: linear-gradient(to right, #da663c, #f77b08);
+    height: 200px;
+    width: 100%;
+}
+
+#map {
+    height: 400px; 
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
